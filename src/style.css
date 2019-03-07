@@ -52,7 +52,7 @@
 .layout-1 footer{
 }
 
-.layout-2 header{
+#topHeader2{
     background-color:red;
 
 }
@@ -65,20 +65,22 @@
     background-color:white;
 }
 
-.layout-2 div{
+#content{
     background-color:green;
+    height:20px;
 }
 
-.layout-2 section article{
+.article2{
     background-color:yellow;
 }
 
-.layout-2 section div{
+.aside-content{
     background-color:purple;
+    height:20px;
 
 }
 
-.layout-2 section div aside{
+.aside-info{
     background-color:aqua;
 }
 
@@ -93,7 +95,7 @@
     background-color:red;
 }
 
-.layout-3 section header{
+#sectionHeader3{
     background-color:blue;
 }
 
